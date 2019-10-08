@@ -19,6 +19,7 @@ public class WaitStrategyTypeTest {
 		assertTrue(WaitStrategyType.LITE_BLOCKING.instance() instanceof LiteBlockingWaitStrategy);
 		assertTrue(WaitStrategyType.SLEEPING_WAIT.instance() instanceof SleepingWaitStrategy);
 		assertTrue(WaitStrategyType.YIELDING.instance() instanceof YieldingWaitStrategy);
+		assertTrue(false);
 	}
 	
 }
