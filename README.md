@@ -15,14 +15,14 @@ Read more about this in:
 
 Software Prerequisites
 ----------------------
-1. JDK 8+
+1. JDK 11+
 2. Maven 3+
 3. Git
 
 Versions used
 -----
-- Spring: 4.3.x    
-- LMAX Disruptor: 3.3.6       
+- Spring: 5.x    
+- LMAX Disruptor: 3.4.2       
 
 Example project
 ----
